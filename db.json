@@ -5,8 +5,7 @@
     { "id": 3100125, "nombre": "fabiola rivas", "estado": "terminado", "direccion": "carretera_a_masaya", "saldo": "$100" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
