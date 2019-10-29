@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 3100123, "nombre": "luis alfredo fuentes villegas", "estado": "activo", "direccion": "recidencial_valle_verde", "saldo": "$75" },
+    { "id": 3100123, "nombre": "luis_alfredo_fuentes_villegas", "estado": "activo", "direccion": "recidencial_valle_verde", "saldo": "$75" },
     { "id": 3100124, "nombre": "humberto areas", "estado": "suspendido", "direccion": "ticuantepe", "saldo": "$55.5" },
     { "id": 3100125, "nombre": "fabiola rivas", "estado": "terminado", "direccion": "carretera_a_masaya", "saldo": "$100" }
   ],
