@@ -2,7 +2,7 @@
   "posts": [
     { "id": 3100123, "nombre": "alfredo","apellido": "fuentes", "estado": "activo", "direccion": "recidencial_valle_verde", "saldo": "$75" },
     { "id": 3100124, "nombre": "humberto","apellido": "areas", "estado": "suspendido", "direccion": "ticuantepe", "saldo": "$55.5" },
-    { "id": 3100125, "nombre": "fabiola","apellido": "rivas", "estado": "terminado", "direccion": "carretera_a_masaya", "saldo": "$100" },
+    { "id": 3100125, "nombre": "Rene","apellido": "Gomez", "estado": "terminado", "direccion": "carretera_a_masaya", "saldo": "$100" },
     { "id": 3100126, "nombre": "geovany","apellido": "talavera", "estado": "activo", "direccion": "santo domingo las sierrita", "saldo": "$40.25" },
     { "id": 3100127, "nombre": "sobeyda","apellido": "lopez", "estado": "suspendido manual", "direccion": "americas 2", "saldo": "$28.75" }
   ],
